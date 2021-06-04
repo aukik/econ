@@ -1,2 +1,2 @@
 # Econ
-Your typical ecommerce website
+Your typical ecommerce website.
