@@ -1,2 +1,2 @@
-# econ
+# Econ
 Your typical ecommerce website
