@@ -23,3 +23,5 @@ node_modules/
 
 db/mysql/*
 !db/mysql/econ
+#!db/mysql/mysql
+#!db/mysql/sys
