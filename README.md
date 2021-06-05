@@ -1,4 +1,1 @@
-# Econ
-Your typical ecommerce website.
-Haha
-aukik
+Haha. No. Yes. blam
